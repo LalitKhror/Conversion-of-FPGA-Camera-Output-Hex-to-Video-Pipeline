@@ -1,1 +1,1 @@
-# Conversion-of-FPGA-Camera-Output-Hex-to-Video-Pipeline-
+# Conversion-of-FPGA-Camera-Output-Hex-to-Video-Pipeline

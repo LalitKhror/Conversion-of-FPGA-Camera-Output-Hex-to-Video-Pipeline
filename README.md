@@ -42,7 +42,7 @@ HEX → Frames → Images → Video
 ## 🧠 System Architecture
 
 👉 **Interactive View (Recommended):**  
-[Open Architecture HTML](./docs/index.html)
+[Open Architecture HTML]( https://lalitkhror.github.io/Conversion-of-FPGA-Camera-Output-Hex-to-Video-Pipeline/)
 
 👉 **Static Diagram (PNG):**  
 

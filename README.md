@@ -46,7 +46,8 @@ HEX → Frames → Images → Video
 
 👉 **Static Diagram (PNG):**  
 
-<img width="1482" height="586" alt="Architecture" src="https://github.com/user-attachments/assets/e7562892-c25f-4839-9d38-33df4b399c25" />
+<img width="1742" height="651" alt="image" src="https://github.com/user-attachments/assets/867b16e9-7f26-44df-8c1c-544038741452" />
+
 
 
 ---

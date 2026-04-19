@@ -68,7 +68,7 @@ HEX Input → Frame Extraction → Pixel Decode → Image Reconstruction → Out
 
 Frame boundaries are detected using a repeating marker:
 
-F00F F00F F00F F00F  
+FABC F123  
 
 ### How it works:
 - Scan full HEX stream  

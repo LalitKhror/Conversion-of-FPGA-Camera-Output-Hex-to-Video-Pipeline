@@ -42,7 +42,7 @@ HEX → Frames → Images → Video
 ## 🧠 System Architecture
 
 👉 **Interactive View (Recommended):**  
-[Open Architecture HTML](./docs/architecture.html)
+[Open Architecture HTML](./docs/index.html)
 
 👉 **Static Diagram (PNG):**  
 

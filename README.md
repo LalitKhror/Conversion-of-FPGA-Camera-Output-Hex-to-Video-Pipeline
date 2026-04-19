@@ -45,7 +45,9 @@ HEX → Frames → Images → Video
 [Open Architecture HTML](./docs/architecture.html)
 
 👉 **Static Diagram (PNG):**  
-![Architecture](./docs/Architecture.png)
+
+<img width="1482" height="586" alt="Architecture" src="https://github.com/user-attachments/assets/e7562892-c25f-4839-9d38-33df4b399c25" />
+
 
 ---
 

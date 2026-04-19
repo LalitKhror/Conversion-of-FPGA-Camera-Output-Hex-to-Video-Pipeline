@@ -83,7 +83,7 @@ FABC F123
 - Pixel Format: **16-bit HEX**  
 - Resolution: **640 × 480**  
 - Pixels per Frame: **307,200**  
-- Frame Marker: **F00F**  
+- Frame Marker: **FABC F123**  
 
 ---
 

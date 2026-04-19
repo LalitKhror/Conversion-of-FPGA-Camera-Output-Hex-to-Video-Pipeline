@@ -98,29 +98,31 @@ F00F F00F F00F F00F
 ---
 
 ## 📁 Project Structure
-
-- **project/**
-  - **input/**  
-    - Raw HEX input files  
-
-  - **output/**
-    - **images/**
-      - **normal/** – Normal grayscale images  
-      - **inverted/** – Inverted grayscale images  
-
-    - **videos/**
-      - `normal.mp4`  
-      - `inverted.mp4`  
-
-  - **src/**
-    - `pipeline.py` – Processing script  
-
-  - **docs/**
-    - `index.html` – Interactive visualization  
-    - `Architecture.png` – Static diagram  
-
-  - `README.md`
-
+```
+project
+│
+├── input
+│   └── Raw HEX input files
+│
+├── output
+│   │
+│   ├── images
+│   │   ├── normal        (Normal grayscale images)
+│   │   └── inverted      (Inverted grayscale images)
+│   │
+│   └── videos
+│       ├── normal.mp4
+│       └── inverted.mp4
+│
+├── src
+│   └── pipeline.py       (Processing script)
+│
+├── docs
+│   ├── index.html        (Interactive visualization)
+│   └── Architecture.png  (Static diagram)
+│
+└── README.md
+```
 
 ---
 

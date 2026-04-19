@@ -116,8 +116,8 @@ F00F F00F F00F F00F
     - `pipeline.py` – Processing script  
 
   - **docs/**
-    - `architecture.html` – Interactive visualization  
-    - `architecture.png` – Static diagram  
+    - `index.html` – Interactive visualization  
+    - `Architecture.png` – Static diagram  
 
   - `README.md`
 
